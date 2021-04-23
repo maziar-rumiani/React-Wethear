@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Wethear/static/css/main.f663173e.chunk.css",
-    "main.js": "/React-Wethear/static/js/main.bc7e9562.chunk.js",
-    "main.js.map": "/React-Wethear/static/js/main.bc7e9562.chunk.js.map",
+    "main.css": "/React-Wethear/static/css/main.3c0d8380.chunk.css",
+    "main.js": "/React-Wethear/static/js/main.9e0b9e6e.chunk.js",
+    "main.js.map": "/React-Wethear/static/js/main.9e0b9e6e.chunk.js.map",
     "runtime-main.js": "/React-Wethear/static/js/runtime-main.755f08cd.js",
     "runtime-main.js.map": "/React-Wethear/static/js/runtime-main.755f08cd.js.map",
     "static/js/2.0017ac66.chunk.js": "/React-Wethear/static/js/2.0017ac66.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.327831b8.chunk.js": "/React-Wethear/static/js/3.327831b8.chunk.js",
     "static/js/3.327831b8.chunk.js.map": "/React-Wethear/static/js/3.327831b8.chunk.js.map",
     "index.html": "/React-Wethear/index.html",
-    "static/css/main.f663173e.chunk.css.map": "/React-Wethear/static/css/main.f663173e.chunk.css.map",
+    "static/css/main.3c0d8380.chunk.css.map": "/React-Wethear/static/css/main.3c0d8380.chunk.css.map",
     "static/js/2.0017ac66.chunk.js.LICENSE.txt": "/React-Wethear/static/js/2.0017ac66.chunk.js.LICENSE.txt",
     "static/media/index.css": "/React-Wethear/static/media/hot.a68e2518.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.755f08cd.js",
     "static/js/2.0017ac66.chunk.js",
-    "static/css/main.f663173e.chunk.css",
-    "static/js/main.bc7e9562.chunk.js"
+    "static/css/main.3c0d8380.chunk.css",
+    "static/js/main.9e0b9e6e.chunk.js"
   ]
 }
