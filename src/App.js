@@ -75,7 +75,7 @@ const [popupBtn,setPopupBtn] = useState(false)
            value={query}
            onKeyPress={search}/>
          </div>
-         {(weather.main ==undefined)?(<div className='preview'>Weather App<br></br>Please enter a city name in th search box and then hit the "Enter" button.</div>) :''
+         {(weather.main ==undefined)?(<div className='preview'>Weather App<br></br>Please enter a city name in the search box and then hit the "Enter" button.</div>) :''
          }
          {(typeof weather.main !="undefined")?(
            <div>
